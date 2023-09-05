@@ -1,4 +1,0 @@
-#!/bin/sh
-echo "Killing MobileTimer Daemon"
-killall -9 mobiletimerd
-exit 0
